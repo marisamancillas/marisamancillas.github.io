@@ -1,1 +1,18 @@
-theme: jekyll-theme-minimal
+title: Marisa Mancillas
+email: marisa.e.mancillas@gmail.com
+
+header_pages:
+ - index.md
+ - cv.md
+ - about.md
+ 
+# social links
+twitter_username: grassbotany # DO NOT include the @ character, or else the build will fail!
+github_username:  marisamancillas # DO NOT include the @ character, or else the build will fail!
+linkedin: https://www.linkedin.com/in/marisa-mancillas-005a61191/
+
+show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
+toc: TRUE
+highlight: breezedark
