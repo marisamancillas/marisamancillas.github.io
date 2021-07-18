@@ -2,8 +2,10 @@
 title: Welcome
 ---
 
-I am a first year MS student in Fish, Wildlife and Conservation Ecology at New Mexico State University. I will be working on a Burrowing Owl translocation project around Phoenix, Arizona. 
+I am a field botanist interested in the ecology of rangelands and prairie ecosystems. I have worked in 10 Western US States on wetland mitigation, reclamation, and restoration sites as a field manager, crew leader, and technician.  
 
-I have previously worked with small owls, diurnal raptors, waterbirds and songbirds. I also have experience performing a variety of statistical analyses on various longitudinal data sets, as well as extensive experience working with GIS.
+Currently, I am in a rangeland ecology masters program at New Mexico State University, studying biogeographic shifts among plant communities in association with climate change and elevation. 
+ 
+Interests: rangeland ecology, botany, ecology, restoration, historical ecology, ethnobotany, gardening, leadership, and mentoring. 
 
-![Cover1](photos.1/Cover1.jpg "")
+![Cover](photos.1/Cover.jpeg "")
