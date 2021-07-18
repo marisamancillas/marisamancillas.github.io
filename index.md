@@ -1,6 +1,3 @@
----
-title: Welcome
----
 
 I am a field botanist interested in the ecology of rangelands and prairie ecosystems. I have worked in 10 Western US States on wetland mitigation, reclamation, and restoration sites as a field manager, crew leader, and technician.  
 
