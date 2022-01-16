@@ -5,6 +5,6 @@ Currently, I am in a rangeland ecology masters program at New Mexico State Unive
  
 Interests: rangeland ecology, botany, ecology, restoration, historical ecology, ethnobotany, gardening, leadership, and mentoring. 
 
-![Merlin](photos.1/image001 (1).jpg "test")
+
 
 
