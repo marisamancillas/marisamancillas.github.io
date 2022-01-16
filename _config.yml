@@ -13,6 +13,6 @@ linkedin: https://www.linkedin.com/in/marisa-mancillas-005a61191/
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima 
 toc: TRUE
 highlight: breezedark
