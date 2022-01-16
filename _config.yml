@@ -5,6 +5,7 @@ header_pages:
  - index.md
  - cv.md
  - about.md
+ - field.md
  
 # social links
 twitter_username: grassbotany # DO NOT include the @ character, or else the build will fail!
