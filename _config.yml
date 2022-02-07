@@ -4,7 +4,7 @@ email: marisa.e.mancillas@gmail.com
 header_pages:
  - index.md
  - cv.md
- - about.md
+ - current.md
  
 # social links
 twitter_username: grassbotany # DO NOT include the @ character, or else the build will fail!
