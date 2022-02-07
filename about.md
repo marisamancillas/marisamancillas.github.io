@@ -1,12 +1,6 @@
 ---
-title: About Me
+title: Curent Research
 ---
 
-# Header
-info
+<a href="SRM.pdf" class="image fit"><img src="SRM.jpg" alt=""></a>	
 
-* bullet points 
-*italics*
-**bold**
-
-***bold italics***
