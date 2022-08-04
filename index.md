@@ -1,7 +1,13 @@
 
 
-<p align="center">
+<center>
+
 ![image](Cover.jpeg)
+
+</center>
+
+
+<p align="center">
 
 Hi, my name is Marisa! I am a field botanist interested in the ecology of rangelands and prairie ecosystems. Currently, I am in a rangeland ecology masters program at New Mexico State University, studying biogeographic shifts among plant communities in association with climate change and along elevation gradients. 
  
