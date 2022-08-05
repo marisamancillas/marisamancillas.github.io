@@ -1,6 +1,5 @@
 
-
-![my image](Cover.jpeg#center) 
+->!![my image](Cover.jpeg)<-
 
 
 <p align="center">
