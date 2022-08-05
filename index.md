@@ -1,7 +1,6 @@
 
 
 <p align="center">
-  <img src="Cover.jpeg" width="350" title="hover text">
   <img src="Cover.jpeg" width="350" alt="accessibility text">
 </p>
 
