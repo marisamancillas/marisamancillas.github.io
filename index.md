@@ -1,7 +1,7 @@
 
 
 
-![image](Cover.jpeg/200/300?style=centerme)
+![image](Cover.jpeg)
 
 
 <p align="center">
