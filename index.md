@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="Cover.jpeg" width="325" alt="accessibility text">
+  <img src="Cover.jpeg" width="250" alt="accessibility text">
 </p>
 
 
