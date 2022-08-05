@@ -1,10 +1,9 @@
 
 
-<center>
+
 
 ![image](Cover.jpeg)
 
-</center>
 
 
 <p align="center">
@@ -13,7 +12,7 @@ Hi, my name is Marisa! I am a field botanist interested in the ecology of rangel
  
 Before graduate school I worked in 10 Western U.S. states on wetland mitigation, reclamation, and restoration sites as a field manager, crew leader, and technician. I have also worked on rangeland inventories and invasive species surveys, and endangered plant species monitoring projects. 
 
-**Interests:** rangeland ecology, botany, ecology, restoration, historical ecology, ethnobotany, gardening, leadership, and mentoring.
+Interests: rangeland ecology, botany, ecology, restoration, historical ecology, ethnobotany, gardening, leadership, and mentoring.
 </p>
 
 
