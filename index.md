@@ -1,6 +1,6 @@
 
 
-
+![my image](/img/Cover.jpeg#center) 
 ![image](Cover.jpeg)
 
 
