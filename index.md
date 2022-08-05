@@ -1,7 +1,7 @@
 
 
-![my image](/img/Cover.jpeg#center) 
-![image](Cover.jpeg)
+![my image](Cover.jpeg#center) 
+
 
 
 <p align="center">
