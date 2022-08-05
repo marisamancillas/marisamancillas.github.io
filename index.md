@@ -2,6 +2,10 @@
 
 ![my image](Cover.jpeg#center) 
 
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
 
 
 <p align="center">
