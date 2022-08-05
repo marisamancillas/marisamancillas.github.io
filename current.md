@@ -7,4 +7,4 @@ As a graduate student and research assistant with the Dr. Fuentes-Soriano [Herba
 
 Here is a poster describing the project:
 
-<a href="SRM.pdf" class="image fit"><img src="SRM.jpg" alt=""></a>	
+<a href="NMNPS_Final_36x48.pdf" class="image fit"><img src="NMNPS_Final_36x48.pdf" alt=""></a>	
